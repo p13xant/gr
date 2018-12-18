@@ -3,7 +3,7 @@ layout: single
 title: Apple Logo CSS
 header: no
 categories:
-  - colour change
+  - phrase processing
   - Logo
 tags:
   - Logo
